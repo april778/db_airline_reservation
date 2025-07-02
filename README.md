@@ -1,6 +1,10 @@
-# db_airline_reservation
+db_airline_reservation
 Simple Airline Ticket Reservation SQL Database
-# 🛫 Airline Reservation Database
+Nama: Elsa Apriana
+Nim: 23.02.0.0002
+Kelas: SI-4A
+
+🛫 Airline Reservation Database
 
 Repository ini berisi skema database sederhana untuk sistem pemesanan tiket pesawat (Airline Reservation System) yang dibuat menggunakan MySQL. Struktur ini dirancang untuk mendukung proses reservasi penerbangan, manajemen pengguna, pembayaran, dan informasi penerbangan.
 
